@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Teona09/nodejs2/issues"
   },
-  "homepage": "https://github.com/Teona09/nodejs2#readme"
+  "homepage": "https://github.com/Teona09/nodejs2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
